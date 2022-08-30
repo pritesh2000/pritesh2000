@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pritesh Tadvi</h1>
 <h3 align="center">Data Science | Machine Learning | Data analytics</h3>
 
+<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for **Internship in Data Science**
@@ -10,6 +12,8 @@
 - 💬 Ask me about **anything I will help as per my knowledge.**
 
 - 📫 How to reach me **priteshptadvi29@gmail.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
