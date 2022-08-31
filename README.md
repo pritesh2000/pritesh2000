@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [pritesh2000.github.io](pritesh2000.github.io)
 
-- 💬 Ask me about **anything I will help as per my knowledge.**
+- 💬 Ask me about anything I will help as per my knowledge.
 
 - 📫 How to reach me **priteshptadvi29@gmail.com**
 
