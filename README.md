@@ -22,8 +22,8 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pritesh tadvi" height="30" width="40" />
 </a>
 
-<a href="https://stackoverflow.com/users/19354108" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19354108" height="30" width="40" />
+<a href="https://www.leetcode.com/__ppt_29" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="__ppt_29" height="30" width="40" />
 </a>
 
 <a href="https://kaggle.com/priteshtadvi" target="blank">
@@ -33,6 +33,12 @@
 <a href="https://www.hackerrank.com/__ppt_29" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="__ppt_29" height="30" width="40" />
 </a>
+
+<a href="https://stackoverflow.com/users/19354108" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19354108" height="30" width="40" />
+</a>
+
+
 
 </p>
 
