@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritesh Tadvi</h1>
-<h3 align="center">Data Science | Machine Learning | Data analytics</h3>
+<h3 align="center">Data Science | Machine Learning</h3>
 
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 
