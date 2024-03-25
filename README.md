@@ -38,6 +38,10 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19354108" height="30" width="40" />
 </a>
 
+<a href="https://public.tableau.com/app/profile/priteshkumar.tadvi/" target="blank">
+<img align="center" src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" alt="priteshkumar.tadvi" height="30" width="40" />
+</a>
+
 
 
 </p>
