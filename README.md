@@ -39,7 +39,7 @@
 </a>
 
 <a href="https://public.tableau.com/app/profile/priteshkumar.tadvi/" target="blank">
-<img align="center" src="https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software" alt="priteshkumar.tadvi" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/pritesh2000/pritesh2000/main/icons8-tableau-software-40.svg" alt="priteshkumar.tadvi" height="30" width="40" />
 </a>
 
 
